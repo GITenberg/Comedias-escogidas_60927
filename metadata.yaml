@@ -1,5 +1,5 @@
 _repo: Comedias-escogidas_60927
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   commentator:
     agent_name: Yxart, Josep
@@ -15,6 +15,9 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/Josep_Yxart
     - https://es.wikipedia.org/wiki/Jos%C3%A9_Yxart
+covers:
+- cover_type: archival
+  image_path: 60927-h/images/back-cover.jpg
 creator:
   authors:
   - agent_name: Molière
@@ -48,6 +51,8 @@ creator:
     - https://es.wikipedia.org/wiki/Leandro_Fern%C3%A1ndez_de_Morat%C3%ADn
 description: The final two titles are translations of Molière's Ecole des maris and
   Le Médecin malgré lui.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60927#Comedias-escogidas
 gutenberg_issued: '2019-12-15'
 gutenberg_type: Text
 identifiers:
