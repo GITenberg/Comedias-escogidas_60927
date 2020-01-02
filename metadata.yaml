@@ -1,0 +1,66 @@
+_repo: Comedias-escogidas_60927
+_version: 0.0.1
+contributor:
+  commentator:
+    agent_name: Yxart, Josep
+    aliases:
+    - Yxart i Moragas, Josep
+    - Moragas, Josep Yxart y
+    - Yxart y Moragas, Jose
+    - Yxart y Moragas, José
+    birthdate: 1852
+    deathdate: 1895
+    gutenberg_agent_id: '51191'
+    url: http://www.gutenberg.org/2009/agents/51191
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Josep_Yxart
+    - https://es.wikipedia.org/wiki/Jos%C3%A9_Yxart
+creator:
+  authors:
+  - agent_name: Molière
+    aliases:
+    - Moliere
+    - Molière, Jean Baptiste Poquelin de
+    - Poquelin de Molière, Jean Baptiste
+    - Poquelin, Jean-Baptiste
+    birthdate: 1622
+    deathdate: 1673
+    gutenberg_agent_id: '791'
+    url: http://www.gutenberg.org/2009/agents/791
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Moli%C3%A8re
+    - http://fr.wikipedia.org/wiki/Moli%C3%A8re
+  - agent_name: Fernández de Moratín, Leandro
+    aliases:
+    - Celenio, Inarco
+    - Posadilla, Ginés de
+    - Moratín, L. Fernández
+    - Fernandez de Moratin, Leandro
+    - Cabo-Conde, Leandro Fernández de Moratín y
+    - Moratín, Leandro Fernández de
+    - Posadilla, Gines de
+    birthdate: 1760
+    deathdate: 1828
+    gutenberg_agent_id: '44209'
+    url: http://www.gutenberg.org/2009/agents/44209
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Leandro_Fern%C3%A1ndez_de_Morat%C3%ADn
+    - https://es.wikipedia.org/wiki/Leandro_Fern%C3%A1ndez_de_Morat%C3%ADn
+description: The final two titles are translations of Molière's Ecole des maris and
+  Le Médecin malgré lui.
+gutenberg_issued: '2019-12-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60927'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Spanish drama -- 19th century'
+- GITenberg
+tableOfContents: Leandro Fernández de Moratín -- Discurso preliminar -- La comedia
+  nueva -- El sí de las niñas -- La escuela de los maridos -- El médico á palos.
+title: Comedias escogidas
+url: http://www.gutenberg.org/ebooks/60927
